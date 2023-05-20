@@ -22,7 +22,7 @@ A Git repository (or "repo") is a file storage location where you keep all of yo
 
 ## Next Steps
 
-Once you're comfortable with creating a Git repository, you're ready to make your first commit. Move on to the next lab, [Your First Commit in Git](LINK_TO_NEXT_LAB), to learn how.
+Once you're comfortable with creating a Git repository, you're ready to make your first commit. Move on to the next lab, [Your First Commit in Git](first-commit.md), to learn how.
 
 ## Interactive Set
 
