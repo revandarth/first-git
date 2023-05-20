@@ -31,7 +31,7 @@ If you've finished with a branch and want to delete it, you can do so using the 
 
 ## Next Steps
 
-Now that you've learned how to fix mistakes in Git, you're ready for your first branch challenge. Move on to the next lab, [Creating Your First Branch Challenge](LINK_TO_NEXT_LAB), to test your new skills.
+Now that you've learned how to fix mistakes in Git, you're ready for your first branch challenge. Move on to the next lab, [Creating Your First Branch Challenge](first-branch-challenge.md), to test your new skills.
 
 ## Interactive Set
 
@@ -39,10 +39,11 @@ This lab is part of an interactive set. Here's what's coming up next:
 - [Your First Git Repository](README.md)
 - [Your First Commit in Git](first-commit.md)
 - [Using Branches in Git](branchs.md)
-- Fixing Your Mistakes: Files and Branches in Git
+- Fixing Your Mistakes: Files and Branches in Git ← You are here
 - [Creating Your First Branch Challenge](first-branch-challenge.md)
 - [Creating and Merging Branches in Git](merge-branch.md)
 - [Managing Merges Challenge](merge-challenge.md)
 - [Working with diff](git-diff.md)
 - [Creating a Git Log Challenge](git-log-challenge.md)
 - [Testing Your Knowledge of Git: Final Challenge](final-challenge.md)
+- [Working with a Remote Repository on GitHub](remote-repository.md)

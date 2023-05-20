@@ -31,7 +31,7 @@ To verify that you've successfully completed this challenge:
 
 ## Conclusion
 
-Congratulations on completing the final challenge! You've now practiced some of the most important Git commands and workflows. Continue practicing and exploring more advanced features of Git to enhance your skills.
+Congratulations on completing the final challenge! You've now practiced some of the most important Git commands and workflows. Move on to the next lab, [Working with a Remote Repository on GitHub](remote-repository.md), to learn more about collaborating with othersin large project using remote repositories. 
 
 ## Interactive Set
 
@@ -46,4 +46,5 @@ This lab is the final part of an interactive set. Here's the complete set:
 - [Managing Merges Challenge](merge-challenge.md)
 - [Working with diff](git-diff.md)
 - [Creating a Git Log Challenge](git-log-challenge.md)
-- Testing Your Knowledge of Git: Final Challenge
+- Testing Your Knowledge of Git: Final Challenge ← You are here
+- [Working with a Remote Repository on GitHub](remote-repository.md)

@@ -28,7 +28,7 @@ To verify that you've successfully completed this challenge:
 
 ## Next Steps
 
-Congratulations on completing your first branch challenge! Now you're ready to learn more about creating and merging branches in Git. Move on to the next lab, [Creating and Merging Branches in Git](LINK_TO_NEXT_LAB), to learn more.
+Congratulations on completing your first branch challenge! Now you're ready to learn more about creating and merging branches in Git. Move on to the next lab, [Creating and Merging Branches in Git](merge-branch.md), to learn more.
 
 ## Interactive Set
 
@@ -37,9 +37,10 @@ This lab is part of an interactive set. Here's what's coming up next:
 - [Your First Commit in Git](first-commit.md)
 - [Using Branches in Git](branchs.md)
 - [Fixing Your Mistakes: Files and Branches in Git](fix-files-branchs.md)
-- Creating Your First Branch Challenge
+- Creating Your First Branch Challenge ← You are here
 - [Creating and Merging Branches in Git](merge-branch.md)
 - [Managing Merges Challenge](merge-challenge.md)
 - [Working with diff](git-diff.md)
 - [Creating a Git Log Challenge](git-log-challenge.md)
 - [Testing Your Knowledge of Git: Final Challenge](final-challenge.md)
+- [Working with a Remote Repository on GitHub](remote-repository.md)

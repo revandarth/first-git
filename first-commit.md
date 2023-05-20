@@ -38,13 +38,13 @@ A commit message should be a clear and concise summary of the changes made in th
 
 ## Next Steps
 
-Now that you've made your first commit, you're ready to learn about branches. Move on to the next lab, [Using Branches in Git](LINK_TO_NEXT_LAB), to learn more.
+Now that you've made your first commit, you're ready to learn about branches. Move on to the next lab, [Using Branches in Git](branchs.md), to learn more.
 
 ## Interactive Set
 
 This lab is part of an interactive set. Here's what's coming up next:
 - [Your First Git Repository](README.md)
-- Your First Commit in Git
+- Your First Commit in Git ← You are here
 - [Using Branches in Git](branchs.md)
 - [Fixing Your Mistakes: Files and Branches in Git](fix-files-branchs.md)
 - [Creating Your First Branch Challenge](first-branch-challenge.md)
@@ -53,3 +53,4 @@ This lab is part of an interactive set. Here's what's coming up next:
 - [Working with diff](git-diff.md)
 - [Creating a Git Log Challenge](git-log-challenge.md)
 - [Testing Your Knowledge of Git: Final Challenge](final-challenge.md)
+- [Working with a Remote Repository on GitHub](remote-repository.md)

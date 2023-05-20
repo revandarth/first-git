@@ -30,7 +30,7 @@ To verify that you've successfully completed this challenge:
 
 ## Next Steps
 
-Congratulations on completing the managing merges challenge! Now you're ready to learn more about working with diff in Git. Move on to the next lab, [Working with diff](LINK_TO_NEXT_LAB), to learn more.
+Congratulations on completing the managing merges challenge! Now you're ready to learn more about working with diff in Git. Move on to the next lab, [Working with diff](git-diff.md), to learn more.
 
 ## Interactive Set
 
@@ -41,7 +41,8 @@ This lab is part of an interactive set. Here's what's coming up next:
 - [Fixing Your Mistakes: Files and Branches in Git](fix-files-branchs.md)
 - [Creating Your First Branch Challenge](first-branch-challenge.md)
 - [Creating and Merging Branches in Git](merge-branch.md)
-- Managing Merges Challenge
+- Managing Merges Challenge ← You are here
 - [Working with diff](git-diff.md)
 - [Creating a Git Log Challenge](git-log-challenge.md)
 - [Testing Your Knowledge of Git: Final Challenge](final-challenge.md)
+- [Working with a Remote Repository on GitHub](remote-repository.md)

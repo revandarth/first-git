@@ -26,7 +26,7 @@ Once you're comfortable with creating a Git repository, you're ready to make you
 
 ## Interactive Set
 
-- [Your First Git Repository](README.md)
+- Your First Git Repository← You are here
 - [Your First Commit in Git](first-commit.md)
 - [Using Branches in Git](branchs.md)
 - [Fixing Your Mistakes: Files and Branches in Git](fix-files-branchs.md)
@@ -36,4 +36,5 @@ Once you're comfortable with creating a Git repository, you're ready to make you
 - [Working with diff](git-diff.md)
 - [Creating a Git Log Challenge](git-log-challenge.md)
 - [Testing Your Knowledge of Git: Final Challenge](final-challenge.md)
+- [Working with a Remote Repository on GitHub](remote-repository.md)
 

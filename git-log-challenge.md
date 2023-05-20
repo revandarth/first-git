@@ -29,7 +29,7 @@ To verify that you've successfully completed this challenge:
 
 ## Next Steps
 
-Congratulations on completing the Git log challenge! Now you're ready for the final challenge of this lab series. Move on to the next lab, [Testing Your Knowledge of Git: Final Challenge](LINK_TO_NEXT_LAB), to test everything you've learned.
+Congratulations on completing the Git log challenge! Now you're ready for the final challenge of this lab series. Move on to the next lab, [Testing Your Knowledge of Git: Final Challenge](final-challenge.md), to test everything you've learned.
 
 ## Interactive Set
 
@@ -42,5 +42,6 @@ This lab is part of an interactive set. Here's what's coming up next:
 - [Creating and Merging Branches in Git](merge-branch.md)
 - [Managing Merges Challenge](merge-challenge.md)
 - [Working with diff](git-diff.md)
-- Creating a Git Log Challenge
+- Creating a Git Log Challenge ← You are here
 - [Testing Your Knowledge of Git: Final Challenge](final-challenge.md)
+- [Working with a Remote Repository on GitHub](remote-repository.md)

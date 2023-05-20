@@ -31,7 +31,7 @@ If you have made changes in one branch and want to integrate them into another b
 
 ## Next Steps
 
-Now that you've learned how to create and merge branches, you're ready for the managing merges challenge. Move on to the next lab, [Managing Merges Challenge](LINK_TO_NEXT_LAB), to test your new skills.
+Now that you've learned how to create and merge branches, you're ready for the managing merges challenge. Move on to the next lab, [Managing Merges Challenge](merge-challenge.md), to test your new skills.
 
 ## Interactive Set
 
@@ -41,8 +41,9 @@ This lab is part of an interactive set. Here's what's coming up next:
 - [Using Branches in Git](branchs.md)
 - [Fixing Your Mistakes: Files and Branches in Git](fix-files-branchs.md)
 - [Creating Your First Branch Challenge](first-branch-challenge.md)
-- Creating and Merging Branches in Git
+- Creating and Merging Branches in Git ← You are here
 - [Managing Merges Challenge](merge-challenge.md)
 - [Working with diff](git-diff.md)
 - [Creating a Git Log Challenge](git-log-challenge.md)
 - [Testing Your Knowledge of Git: Final Challenge](final-challenge.md)
+- [Working with a Remote Repository on GitHub](remote-repository.md)
